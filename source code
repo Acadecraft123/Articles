@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <script type="text/javascript" src="scripts.js"></script>
   </head>
-  <body>
+<body>
     <div class="content">
         <h1>Click me</h1>
       <img src="https://picsum.photos/300/300/?random" />
@@ -16,7 +16,6 @@
     <div class="loader-wrapper">
       <span class="loader"><span class="loader-inner"></span></span>
     </div>
-
     <script>
         $(window).on("load",function(){
           $(".loader-wrapper").fadeOut("slow");
