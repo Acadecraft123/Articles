@@ -16,11 +16,6 @@
     <div class="loader-wrapper">
       <span class="loader"><span class="loader-inner"></span></span>
     </div>
-    <script>
-        $(window).on("load",function(){
-          $(".loader-wrapper").fadeOut("slow");
-        });
-    </script>
   </body>
 </html>
 ```
@@ -99,9 +94,3 @@ body {
 }
 ```
 
-```js
-//script.js
-$(window).on("load",function(){
-     $(".loader-content").fadeOut("slow");
-});
-```
