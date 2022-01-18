@@ -6,7 +6,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <script src="jquery-2.1.4.js"></script>
     <script type="text/javascript" src="scripts.js"></script>
-    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
 <body>
     <div class="content">
